@@ -17,7 +17,7 @@
  
         <nav class="navigasi">
             <ul>
-                <li><a class="active" href="home.php">Home</a></li>
+                <li><a class="active" href="index.php">Home</a></li>
 		        <li><a class="active" href="#">About Me</a></li>
 				<li><a class="active" href='#'>WFH </a></li>
 				<li><a class="active" href="#">Facilities</a></li>
