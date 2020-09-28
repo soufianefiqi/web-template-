@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>My Website</title>
-    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
      
@@ -25,18 +25,18 @@
         </nav>
  
         <div class="banner">
-            <img src="image/profil-back.jpg">
+            <img src="profil-back.jpg">
         </div>
 		<div class = "profil">
-		    <img src="image/profil.jpg">
+		    <img src="profil.jpg">
         </div>
 		<marquee width="800" height="20">-----------------------------Welcome------------------------------</marquee><br/>
 		<div class="gif">
-		<img src ="image/tenor.gif" width="200" height="200"></div>
+		<img src ="tenor.gif" width="200" height="200"></div>
         <div class="menu-kiri">
             <div class="kotak">
                 <h3>Profil</h3>
-				<img src="image/hak.jpeg" width="30px" height="30px" align="left">
+				<img src="hak.jpeg" width="30px" height="30px" align="left">
 				<div class="text">
                 <h4>
                     Soufiane Fiqi Vindia </br>
@@ -199,7 +199,7 @@
                 berikut adalah video cover : </br>
             <i>enjoy the music!!!</i></p>
             <video width="500" height="auto" controls>
-                <source src="video/video cover.mp4" type="video/mp4"/>
+                <source src="video cover.mp4" type="video/mp4"/>
                 Browser Anda Tidak MenSupport HTML 5 Video</video>
                 <p>Ini hanya untuk referensi, bayangkan saja jika saya dan teman saya yang melakukan cover akustiknya :))</p> 
                 <p>Selain belajar bermain gitar, kegiatan WFH ini bisa melakukan olahraga juga <i>lho</i>. Gimana caranya?
@@ -207,7 +207,7 @@
                     meningkatkan kekreativitas para individu-individu di dunia. Seperti olahraga secara online dengan stiker <i>whatsapp</i>.
                 </br>seperti pada contoh video di bawah ini : </p>
                 <video width="500" height="auto" controls>
-                <source src="video/senam skj.mp4" type="video/mp4"/>
+                <source src="senam skj.mp4" type="video/mp4"/>
                 Browser Anda Tidak MenSupport HTML 5 Video</video>
                 <p>Dan masih banyak lagi yang dapat dilakukan selama WFH</p>
          </div>
@@ -228,14 +228,14 @@
             <div class="kotak-kanan">
                 <div class="kotak3">
                     <h3 id="uin">Fasilitas UIN Jakarta</h3>
-                    <a href="fst.html" title="klik fst" target="_self">
-                        <img src="image/fst.jpeg" alt="FST" width="100px" height="100px"  border="2px solid  black" align="left">
+                    <a href="fst.php" title="klik fst" target="_self">
+                        <img src="fst.jpeg" alt="FST" width="100px" height="100px"  border="2px solid  black" align="left">
                         <p>Fakultas Sains Dan Teknologi </p></a></br></br></br></br>
-                        <a href="plt.html" title="klik plt" target="_self">
-                            <img src="image/plt.jpg" alt="FST" width="100px" height="100px"  border="2px solid  black" align="left">
+                        <a href="plt.php" title="klik plt" target="_self">
+                            <img src="plt.jpg" alt="FST" width="100px" height="100px"  border="2px solid  black" align="left">
                             <p>Pusat Laboratorium Teknologi</p></a></br></br></br></br>
-                            <a href="perpus.html" title="klik perpus" target="_self">
-                                <img src="image/perpus.jpg" alt="FST" width="100px" height="100px"  border="2px solid  black" align="left">
+                            <a href="perpus.php" title="klik perpus" target="_self">
+                                <img src="perpus.jpg" alt="FST" width="100px" height="100px"  border="2px solid  black" align="left">
                                 <p>Perpustakaan UIN Jakarta</p></a>
         </div>
         </div>
