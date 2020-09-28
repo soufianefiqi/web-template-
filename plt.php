@@ -58,7 +58,7 @@
         <div class="menu-tengah">
             <div class="kotak">
                 <h3>Pusat Laboratorium UIN Jakarta</h3>
-                <center><img src="image/plt.jpg" alt="perpus" width="300" height="300" ></center>
+                <center><img src="plt.jpg" alt="perpus" width="300" height="300" ></center>
                 <p>Jika ada Fakultas Sains dan Teknologi, maka tidak akan lengkap tanpa adanya laboratorium. Laboratorium di UIN Jakarta ini 
                     memiliki 6 lantai, dimana dari lantai 5-6 khusus jurusan Teknik Informatika, Sistem Informasi. dan matematika saja karena hampir di setiap ruangannya 
                     menyediakan komputer untuk masing-masing bangku. Di lantai 5-6 terdapat ruangan Lab.Aplikasi, Lab.Jaringan, Lab.Matematika, dan masih banyak lagi. 
