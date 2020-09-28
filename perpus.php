@@ -17,7 +17,7 @@
  
         <nav class="navigasi">
             <ul>
-                <li><a class="active" href="home.html">Home</a></li>
+                <li><a class="active" href="home.php">Home</a></li>
 		        <li><a class="active" href="#">About Me</a></li>
 				<li><a class="active" href='#'>WFH </a></li>
 				<li><a class="active" href="#">Facilities</a></li>
@@ -58,7 +58,7 @@
         <div class="menu-tengah">
             <div class="kotak">
                 <h3>Perpustakaan UIN Jakarta</h3>
-                <center><img src="image/perpus.jpg" alt="perpus" width="300" height="300" ></center>
+                <center><img src="perpus.jpg" alt="perpus" width="300" height="300" ></center>
                 <p>UIN Syarif Hidayatullah Jakarta juga ada perpustakaan yang sangat lengkap. memiliki 7 lantai, di tiap lantai terdapat 
                     informasi buku-buku tiap bidangnya agar memudahkan pencarian. Gedung perpustakaannya sendiri juga memiliki keunikan lain dibanding 
                     gedung fakultas lainnya. Terdapat kubah putih besar di atasnya. perpustakaan ini dibuka untuk umum, dengan kata lain 
