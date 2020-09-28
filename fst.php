@@ -17,7 +17,7 @@
  
         <nav class="navigasi">
             <ul>
-                <li><a class="active" href="home.html">Home</a></li>
+                <li><a class="active" href="home.php">Home</a></li>
 		        <li><a class="active" href="#">About Me</a></li>
 				<li><a class="active" href='#'>WFH </a></li>
 				<li><a class="active" href="#">Facilities</a></li>
@@ -58,7 +58,7 @@
         <div class="menu-tengah">
             <div class="kotak">
                 <h3>Fakultas Sains Dan Teknologi</h3>
-                <center><img src="image/fst.jpeg" alt="FST" width="300" height="300" ></center>
+                <center><img src="fst.jpeg" alt="FST" width="300" height="300" ></center>
                 <p>Fakultas ini adalah satu-satunya fakultas yang mempelajari mengenai <i>sains</i> di UIN Jakarta. Berlokasikan 
                     di kampus 1 UIN Jakarta bagian paling dalam. Jurusan yang ada pada Fakultas ini juga banyak, antara lain 
                     ada Jurusan Fisika, Jurusan Matematika, Jurusan Sistem Informasi, Jurusan Teknik Informatika, Jurusan Biologi, dan terakhir Jurusan Kimia
